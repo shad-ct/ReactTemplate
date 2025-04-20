@@ -1,4 +1,12 @@
-# ⚛️ + 🟦 + ⚡️ + 💨 = Awesome Web App!
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100">
+  <span style="font-size: 120px; font-weight: bold;">+</span>
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="100">
+  <span style="font-size: 120px; font-weight: bold;">+</span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="100">
+</div>
+
 
 ## Get Started Quickly! ✨
 
