@@ -17,7 +17,7 @@ Follow these super easy steps to get this project up and running on your local m
 Grab a copy of the project files from GitHub using this command in your terminal:
 
 ```
-git clone [https://github.com/shad-ct/ReactTemplate.git](https://github.com/shad-ct/ReactTemplate.git)
+git clone https://github.com/shad-ct/ReactTemplate
 ```
 
 ### Step 2: Dive into the Project Folder 📂
